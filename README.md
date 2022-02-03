@@ -1,6 +1,6 @@
-# MicrosoftSentinel-Noted
+# Microsoft Sentinel - Noted
 
-A little note during the use of Microsoft Sentinel.
+A little note during the use of Microsoft Sentinel. I write down my notes in the presentation slides I've ever Presented.
 
 ## Presentation
 
